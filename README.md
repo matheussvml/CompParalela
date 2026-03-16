@@ -1,4 +1,4 @@
-Grupo formado por: Matheus Vasconcelos 2315043,Erich Lima 2310362, Pedro Diogenes 2315029
+Grupo formado por: Matheus Vasconcelos 2315043,Erich Lima 2310362, Pedro Diogenes 2315029, Rebeca Vicente 2122489
 
 
 # Disponibilidade de Serviços Replicados

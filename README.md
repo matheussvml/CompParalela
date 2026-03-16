@@ -84,7 +84,7 @@ O script também plota e salva os gráficos ilustrando esse fenômeno fisicament
 ### Teto de Servidores para Consulta vs Metas
 Abaixo vemos o esforço logarítmico necessário para ultrapassar sucessivas camadas de confiabilidade para as operações de consulta ($p=0.5$).
 
-![Disponibilidade vs Servidores](./grafico_disponibilidade.png)
+[![Disponibilidade vs Servidores](./grafico_disponibilidade.png)](./grafico_disponibilidade.html)
 
 O gráfico acima evidencia o comportamento assintótico:
 - A disponibilidade cresce rapidamente nos primeiros servidores. Ex: passar de 1 para 4 servidores nos leva de 50% para quase 94%.
@@ -93,7 +93,7 @@ O gráfico acima evidencia o comportamento assintótico:
 ### Impacto de Diferentes Valores de $k$
 Como bônus, exploramos no script do `exercicio1.1.py` as curvas com base na probabilidade teórica com $p=0.9$:
 
-![Diferentes quóruns](./grafico_exercicio1.1.png)
+[![Diferentes quóruns](./grafico_exercicio1.1.png)](./grafico_exercicio1.1.html)
 *(Dependendo seu ambiente você precisa executar `exercicio1.1.py` localmente para exportar esta visão. Acima demonstra o rápido declínio da linha de Atualização frente ao disparo de estabilidade em Leituras).*
 
 ## 7. Como Executar o Projeto

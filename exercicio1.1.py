@@ -29,7 +29,7 @@ def disponibilidade(n, k, p):
 
 def consulta(n, p):
     """
-    Calcula a disponibilidade para o caso extremo de consulta (leitura), onde k = 1.
+    Calcula  a disponibilidade para o caso extremo de consulta (leitura), onde k = 1.
     
     A = 1 - (1-p)^n
     """

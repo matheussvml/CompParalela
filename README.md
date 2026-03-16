@@ -1,3 +1,6 @@
+Grupo formado por: Matheus Vasconcelos 2315043,Erich Lima 2310362, Pedro Diogenes 2315029
+
+
 # Disponibilidade de Serviços Replicados
 
 Este repositório contém exercícios e demonstrações de conceitos de Sistemas Distribuídos, focando no estudo de como a replicação afeta a disponibilidade de um serviço.

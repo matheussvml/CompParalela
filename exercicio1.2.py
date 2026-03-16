@@ -2,7 +2,6 @@ import plotly.graph_objects as go
 import os
 
 def calcular_n_minimo(p, disponibilidade_alvo):
-    print("OHAYOO")
     """
     Calcula o número mínimo de servidores (n) para atingir uma disponibilidade alvo
     considerando operação de leitura (k=1).
